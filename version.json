@@ -1,0 +1,14 @@
+{
+  "version": "1.0.1",
+  "releaseDate": "2026-10-08",
+  "minVersion": "1.0.0",
+  "apkUrl": "https://github.com/ederghost27/ComputerStoreManager/releases/latest/download/EderGhostComputer_v1.0.apk",
+  "exeUrl": "https://github.com/ederghost27/ComputerStoreManager/releases/latest/download/ComputerStoreManager_Setup_v1.0.exe",
+  "changelog": [
+    "Tự động định dạng dấu phẩy phân cách hàng nghìn (11,000) khi nhập số tiền trên toàn hệ thống",
+    "Bổ sung bên trả ship (Khách trả / Freeship) và ghi chú đơn hàng đồng bộ giữa EXE và Mobile",
+    "Tích hợp hệ thống quét & cập nhật phiên bản mới một chạm trực tiếp từ GitHub",
+    "Bộ icon vector Font Awesome 6 hiển thị sắc nét 100%, không phụ thuộc font hệ thống",
+    "Hộp thoại xác nhận Cyberpunk cao cấp thay thế hoàn toàn popup mặc định của trình duyệt"
+  ]
+}
